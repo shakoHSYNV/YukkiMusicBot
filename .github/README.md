@@ -58,7 +58,7 @@ For more information on the technologies that power the Yukki Music Bot, check o
 
 
 <h4>Click the button below to deploy Yukki on Railway!</h4>    
-<a href="https://github.com/TeamYukki/RailwayDeployer"><img src="https://img.shields.io/badge/Deploy%20To%20Railway-blueviolet?style=for-the-badge&logo=railway" width="200""/></a>
+<a href="https://github.com/shakoHSYNV/YukkiMusicBot"><img src="https://img.shields.io/badge/Deploy%20To%20Railway-blueviolet?style=for-the-badge&logo=railway" width="200""/></a>
 
 
 ## 🚀 Heroku Deployment
